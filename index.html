@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BlankWord Game</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="game-container">
+            <h1 class="text-center mb-4">BlankWord Game</h1>
+            
+            <div class="text-center mb-4">
+                <div class="dropdown">
+                    <button class="btn btn-primary dropdown-toggle" type="button" id="seriesDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                        Select Series
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="seriesDropdown" id="seriesList">
+                        <li><a class="dropdown-item" href="#" data-series="justification-sanctification">Justification or Sanctification</a></li>
+                        <!-- More series can be added here -->
+                    </ul>
+                </div>
+            </div>
+            
+            <div id="gameArea" style="display: none;">
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <p class="score">Score: <span id="correctScore">0</span> / <span id="totalQuestions">0</span></p>
+                    </div>
+                    <div class="col-md-6 text-end">
+                        <p>Question: <span id="currentQuestion">1</span> / <span id="totalQuestions2">0</span></p>
+                    </div>
+                </div>
+                
+                <div class="verse-container">
+                    <p id="verseText">Select a series to begin the game...</p>
+                    <p class="verse-reference" id="verseRef"></p>
+                </div>
+                
+                <div class="text-center mb-3">
+                    <div id="options" class="d-flex justify-content-center mb-3">
+                        <!-- Option buttons will be added here dynamically -->
+                    </div>
+                    <p class="feedback text-center" id="feedback"></p>
+                </div>
+                
+                <div class="text-center mt-4">
+                    <button class="btn btn-primary" id="nextBtn" style="display: none;">Next Verse</button>
+                    <button class="btn btn-success" id="finishBtn" style="display: none;">Finish Game</button>
+                </div>
+            </div>
+            
+            <div id="resultsArea" style="display: none;">
+                <h2 class="text-center mb-4">Game Results</h2>
+                <div class="stats-container">
+                    <p class="text-center fs-4">You scored <span id="finalScore">0</span> out of <span id="finalTotal">0</span></p>
+                    <div class="progress mb-3">
+                        <div class="progress-bar bg-success" id="scoreProgressBar" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                </div>
+                <div class="text-center mt-4">
+                    <button class="btn btn-primary" id="playAgainBtn">Play Again</button>
+                </div>
+            </div>
+            
+            <div id="startScreen" class="text-center">
+                <h2 class="mb-4">Welcome to BlankWord!</h2>
+                <p class="mb-4">Choose a verse series above to start playing. You'll be shown Bible verses with key words blanked out. Your task is to select the correct word for each blank.</p>
+                <div class="alert alert-info">
+                    <p class="mb-0">Example series: "Justification or Sanctification" - you'll need to determine which theological term fits in each verse.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- jQuery and Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Custom JS -->
+    <script src="game.js"></script>
+</body>
+</html>

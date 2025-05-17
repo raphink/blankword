@@ -1,0 +1,120 @@
+{
+    "series": "justification-sanctification",
+    "options": ["justification", "sanctification"],
+    "verses": [
+        {
+            "text": "Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ.",
+            "reference": "Romans 5:1 (ESV)",
+            "answer": "justified",
+            "alternative": "sanctified"
+        },
+        {
+            "text": "For this is the will of God, your sanctification: that you should abstain from sexual immorality.",
+            "reference": "1 Thessalonians 4:3 (ESV)",
+            "answer": "sanctification",
+            "alternative": "justification"
+        },
+        {
+            "text": "Much more then, having now been justified by His blood, we shall be saved from wrath through Him.",
+            "reference": "Romans 5:9 (ESV)",
+            "answer": "justified",
+            "alternative": "sanctified"
+        },
+        {
+            "text": "Now may the God of peace Himself sanctify you completely; and may your whole spirit, soul, and body be preserved blameless at the coming of our Lord Jesus Christ.",
+            "reference": "1 Thessalonians 5:23 (ESV)",
+            "answer": "sanctify",
+            "alternative": "justify"
+        },
+        {
+            "text": "And such were some of you. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God.",
+            "reference": "1 Corinthians 6:11 (ESV)",
+            "answer": "sanctified",
+            "alternative": "justified"
+        },
+        {
+            "text": "For by a single offering he has perfected for all time those who are being sanctified.",
+            "reference": "Hebrews 10:14 (ESV)",
+            "answer": "sanctified",
+            "alternative": "justified"
+        },
+        {
+            "text": "For we hold that one is justified by faith apart from works of the law.",
+            "reference": "Romans 3:28 (ESV)",
+            "answer": "justified",
+            "alternative": "sanctified"
+        },
+        {
+            "text": "Yet we know that a person is not justified by works of the law but through faith in Jesus Christ, so we also have believed in Christ Jesus, in order to be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified.",
+            "reference": "Galatians 2:16 (ESV)",
+            "answer": "justified",
+            "alternative": "sanctified"
+        },
+        {
+            "text": "For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh, in order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit.",
+            "reference": "Romans 8:3-4 (ESV)",
+            "answer": "righteous",
+            "alternative": "sanctified"
+        },
+        {
+            "text": "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.",
+            "reference": "2 Corinthians 5:17 (ESV)",
+            "answer": "new",
+            "alternative": "justified"
+        },
+        {
+            "text": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.",
+            "reference": "Ephesians 2:8-9 (ESV)",
+            "answer": "saved",
+            "alternative": "sanctified"
+        },
+        {
+            "text": "Husbands, love your wives, as Christ loved the church and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word.",
+            "reference": "Ephesians 5:25-26 (ESV)",
+            "answer": "sanctify",
+            "alternative": "justify"
+        },
+        {
+            "text": "For this is the will of God, your sanctification: that you abstain from sexual immorality.",
+            "reference": "1 Thessalonians 4:3 (ESV)",
+            "answer": "sanctification",
+            "alternative": "justification"
+        },
+        {
+            "text": "For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified.",
+            "reference": "Romans 8:29-30 (ESV)",
+            "answer": "justified",
+            "alternative": "sanctified"
+        },
+        {
+            "text": "I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship.",
+            "reference": "Romans 12:1 (ESV)",
+            "answer": "holy",
+            "alternative": "justified"
+        },
+        {
+            "text": "But now the righteousness of God has been manifested apart from the law, although the Law and the Prophets bear witness to it—the righteousness of God through faith in Jesus Christ for all who believe.",
+            "reference": "Romans 3:21-22 (ESV)",
+            "answer": "righteousness",
+            "alternative": "sanctification"
+        },
+        {
+            "text": "And because of him you are in Christ Jesus, who became to us wisdom from God, righteousness and sanctification and redemption.",
+            "reference": "1 Corinthians 1:30 (ESV)",
+            "answer": "sanctification",
+            "alternative": "justification"
+        },
+        {
+            "text": "Pursue peace with everyone, and holiness, without which no one will see the Lord.",
+            "reference": "Hebrews 12:14 (ESV)",
+            "answer": "holiness",
+            "alternative": "justification"
+        },
+        {
+            "text": "To those who are elect exiles according to the foreknowledge of God the Father, in the sanctification of the Spirit, for obedience to Jesus Christ and for sprinkling with his blood: May grace and peace be multiplied to you.",
+            "reference": "1 Peter 1:2 (ESV)",
+            "answer": "sanctification",
+            "alternative": "justification"
+        }
+    ]
+}
