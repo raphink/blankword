@@ -51,21 +51,15 @@
             "alternative": "sanctified"
         },
         {
-            "text": "For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh, in order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit.",
-            "reference": "Romans 8:3-4 (ESV)",
-            "answer": "righteous",
-            "alternative": "sanctified"
+            "text": "I am speaking in human terms because of your natural limitations. For just as you once presented your members as slaves to impurity and to lawlessness leading to more lawlessness, so now present your members as slaves to righteousness leading to sanctification.",
+            "reference": "Romans 6:19 (ESV)",
+            "answer": "sanctification",
+            "alternative": "justification"
         },
         {
-            "text": "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.",
-            "reference": "2 Corinthians 5:17 (ESV)",
-            "answer": "new",
-            "alternative": "justified"
-        },
-        {
-            "text": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.",
-            "reference": "Ephesians 2:8-9 (ESV)",
-            "answer": "saved",
+            "text": "You see that a person is justified by works and not by faith alone.",
+            "reference": "James 2:24 (ESV)",
+            "answer": "justified",
             "alternative": "sanctified"
         },
         {
@@ -87,16 +81,16 @@
             "alternative": "sanctified"
         },
         {
-            "text": "I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship.",
-            "reference": "Romans 12:1 (ESV)",
-            "answer": "holy",
-            "alternative": "justified"
+            "text": "Now to the one who works, his wages are not counted as a gift but as his due. And to the one who does not work but believes in him who justifies the ungodly, his faith is counted as righteousness.",
+            "reference": "Romans 4:4-5 (ESV)",
+            "answer": "justifies",
+            "alternative": "sanctifies"
         },
         {
-            "text": "But now the righteousness of God has been manifested apart from the law, although the Law and the Prophets bear witness to it—the righteousness of God through faith in Jesus Christ for all who believe.",
-            "reference": "Romans 3:21-22 (ESV)",
-            "answer": "righteousness",
-            "alternative": "sanctification"
+            "text": "God chose you as the firstfruits to be saved, through sanctification by the Spirit and belief in the truth.",
+            "reference": "2 Thessalonians 2:13 (ESV)",
+            "answer": "sanctification",
+            "alternative": "justification"
         },
         {
             "text": "And because of him you are in Christ Jesus, who became to us wisdom from God, righteousness and sanctification and redemption.",
@@ -105,16 +99,34 @@
             "alternative": "justification"
         },
         {
-            "text": "Pursue peace with everyone, and holiness, without which no one will see the Lord.",
-            "reference": "Hebrews 12:14 (ESV)",
-            "answer": "holiness",
-            "alternative": "justification"
+            "text": "But now the righteousness of God has been manifested apart from the law, although the Law and the Prophets bear witness to it—the righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction: for all have sinned and fall short of the glory of God, and are justified by his grace as a gift, through the redemption that is in Christ Jesus.",
+            "reference": "Romans 3:21-24 (ESV)",
+            "answer": "justified",
+            "alternative": "sanctified"
         },
         {
             "text": "To those who are elect exiles according to the foreknowledge of God the Father, in the sanctification of the Spirit, for obedience to Jesus Christ and for sprinkling with his blood: May grace and peace be multiplied to you.",
             "reference": "1 Peter 1:2 (ESV)",
             "answer": "sanctification",
             "alternative": "justification"
+        },
+        {
+            "text": "Therefore, as one trespass led to condemnation for all men, so one act of righteousness leads to justification and life for all men. For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous.",
+            "reference": "Romans 5:18-19 (ESV)",
+            "answer": "justification",
+            "alternative": "sanctification"
+        },
+        {
+            "text": "Now may the God of peace himself sanctify you completely, and may your whole spirit and soul and body be kept blameless at the coming of our Lord Jesus Christ.",
+            "reference": "1 Thessalonians 5:23 (ESV)",
+            "answer": "sanctify",
+            "alternative": "justify"
+        },
+        {
+            "text": "So Jesus also suffered outside the gate in order to sanctify the people through his own blood.",
+            "reference": "Hebrews 13:12 (ESV)",
+            "answer": "sanctify",
+            "alternative": "justify"
         }
     ]
 }
