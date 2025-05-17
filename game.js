@@ -4,7 +4,10 @@ $(document).ready(function() {
     let currentVerseIndex = 0;
     let score = 0;
     let userAnswers = [];
-    
+
+    // Default
+    loadSeries('justification-sanctification');
+
     // Event listener for series selection
     $('#seriesList').on('click', 'a', function(e) {
         e.preventDefault();
